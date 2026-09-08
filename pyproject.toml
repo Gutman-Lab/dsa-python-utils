@@ -21,7 +21,7 @@ dependencies = [
     "colorama",
     "histomicstk",
     "pykdtree",
-    "lazy-loader",
+    "lazy-loader>=0.5",
 ]
 
 name = "dsa_helpers"
